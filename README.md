@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Haroon</h1>
 <h3 align="center">Cloud/DevOps engineer looking for a challange!</h3>
 
-- 🔭 I’m currently working on **A portfolio hosted on Git-Pages or Azure**
+- 🔭 I’m currently working on **Getting CKAD certified, also on creating a portfolio**
 
 - 🌱 I’m currently learning **GitLab, AWS, refining my PowerShell!**
 
