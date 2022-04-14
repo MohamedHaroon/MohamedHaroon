@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Getting CKAD certified, also on creating a portfolio**
 
-- 🌱 I’m currently learning **GitLab, AWS, refining my PowerShell!**
+- 🌱 I’m currently learning **GitLab, AWS, Istio and Sevice Mesh, Codecov,refining my PowerShell skills!**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-haroon98/](https://www.linkedin.com/in/mohamed-haroon98/)
 
